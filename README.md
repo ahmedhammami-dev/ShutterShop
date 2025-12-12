@@ -16,8 +16,8 @@ A **MERN Stack web application** for buying and selling used photography gear. U
 - **Frontend:** React.js, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Mongoose  
-- **Authentication:** JWT, bcrypt  
-- **Deployment:** Heroku / Netlify (optional)  
+- **Authentication:** JWT, bcrypt
+
 
 ## 📲 Installation / Usage
 
